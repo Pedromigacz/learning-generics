@@ -1,5 +1,3 @@
 {
-  "recommendations": [
-    "yrm.type-challenges"
-  ]
+	"recommendations": ["yrm.type-challenges", "biomejs.biome"]
 }
